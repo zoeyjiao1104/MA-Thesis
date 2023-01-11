@@ -19,3 +19,6 @@ The sixth topic is talking about the ingredients of food, such as protein, powde
 <img width="643" alt="Screen Shot 2023-01-11 at 1 23 30 AM" src="https://user-images.githubusercontent.com/89910851/211742957-79276bab-8dde-4c88-9b8e-c7fdba829ade.png">
 
 It is hard to define the fourth and fifth topic. 
+
+
+Interpretation of topics from genome dataset - still working on this.
