@@ -12,4 +12,10 @@ The second topic is about lactase and enzyme.
 
 <img width="635" alt="Screen Shot 2023-01-11 at 1 21 05 AM" src="https://user-images.githubusercontent.com/89910851/211742523-51401d7a-425d-4bfc-b3f1-1ea1deb89a14.png">
 
+The third topic is related to very specific food that causes lactose intolerance such as yogurt, cream cheese. 
+<img width="598" alt="Screen Shot 2023-01-11 at 1 22 02 AM" src="https://user-images.githubusercontent.com/89910851/211742701-a5e7df08-00fa-40f9-9803-03a093f507a9.png">
 
+The sixth topic is talking about the ingredients of food, such as protein, powder, sugar, cream. 
+<img width="643" alt="Screen Shot 2023-01-11 at 1 23 30 AM" src="https://user-images.githubusercontent.com/89910851/211742957-79276bab-8dde-4c88-9b8e-c7fdba829ade.png">
+
+It is hard to define the fourth and fifth topic. 
